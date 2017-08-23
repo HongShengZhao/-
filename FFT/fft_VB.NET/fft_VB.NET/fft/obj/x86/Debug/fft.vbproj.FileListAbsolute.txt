@@ -1,0 +1,16 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\bin\Debug\fft.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\bin\Debug\fft.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\bin\Debug\fft.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Debug\fft.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Debug\fft.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Debug\fft.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Debug\fft.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Debug\fft.pdb
+C:\Users\Administrator\Desktop\fft_VB.NET\fft_VB.NET\fft\obj\x86\Debug\fft.exe
+C:\Users\Administrator\Desktop\fft_VB.NET\fft_VB.NET\fft\obj\x86\Debug\fft.xml
+C:\Users\Administrator\Desktop\fft_VB.NET\fft_VB.NET\fft\obj\x86\Debug\fft.pdb
+C:\Users\Administrator\Desktop\fft_VB.NET\fft_VB.NET\fft\bin\Debug\fft.exe
+C:\Users\Administrator\Desktop\fft_VB.NET\fft_VB.NET\fft\bin\Debug\fft.pdb
+C:\Users\Administrator\Desktop\fft_VB.NET\fft_VB.NET\fft\bin\Debug\fft.xml
+C:\Users\Administrator\Desktop\fft_VB.NET\fft_VB.NET\fft\obj\x86\Debug\fft.Resources.resources
+C:\Users\Administrator\Desktop\fft_VB.NET\fft_VB.NET\fft\obj\x86\Debug\fft.vbproj.GenerateResource.Cache

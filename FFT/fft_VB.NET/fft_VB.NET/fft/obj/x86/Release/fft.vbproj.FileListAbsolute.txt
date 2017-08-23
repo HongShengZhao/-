@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\bin\Release\fft.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\bin\Release\fft.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\bin\Release\fft.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Release\fft.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Release\fft.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Release\fft.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Release\fft.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\fft\fft\obj\x86\Release\fft.pdb

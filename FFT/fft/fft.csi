@@ -1,0 +1,24 @@
+[History]
+1=#P0#=mb	#P1#=ApplyHamming	#P2#=fft/FunctionGenerator/ApplyHamming	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20170111165902	#P7#=0	#P8#=3	.
+2=#P0#=mb	#P1#=GenSine	#P2#=fft/FunctionGenerator/GenSine	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20170111000151	#P7#=0	#P8#=-21	.
+3=#P0#=mb	#P1#=cmdDisplayOutPut_Click	#P2#=fft/mainfrm/cmdDisplayOutPut_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20170111180641	#P7#=0	#P8#=81	.
+4=#P0#=mb	#P1#=Atan2	#P2#=fft/module1/Atan2	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20170108110351	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=Command1_Click	#P2#=fft/mainfrm/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20170108103608	#P7#=0	#P8#=6	.
+6=#P0#=mb	#P1#=FFT0	#P2#=fft/modfft/FFT0	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20170108102537	#P7#=0	#P8#=-18	.
+7=#P0#=mb	#P1#=NTOM	#P2#=fft/modfft/NTOM	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20170108102526	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=redraw	#P2#=fft/mainfrm/redraw	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20170108004600	#P7#=0	#P8#=11	.
+9=#P0#=mb	#P1#=Form_Activate	#P2#=fft/mainfrm/Form_Activate	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20170108004305	#P7#=0	#P8#=1	.
+10=#P0#=mb	#P1#=plotip	#P2#=fft/plot/plotip	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20170108004043	#P7#=0	#P8#=7	.
+11=#P0#=mb	#P1#=List2_Click	#P2#=fft/mainfrm/List2_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20170108003428	#P7#=0	#P8#=1	.
+12=#P0#=mb	#P1#=List1_DblClick	#P2#=fft/mainfrm/List1_DblClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20170108003420	#P7#=0	#P8#=1	.
+13=#P0#=mb	#P1#=cmdTransform_Click	#P2#=fft/mainfrm/cmdTransform_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20170111170413	#P7#=0	#P8#=1	.
+14=#P0#=mb	#P1#=btn_generate_Click	#P2#=fft/mainfrm/btn_generate_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20170111170024	#P7#=0	#P8#=1	.
+15=#P0#=mb	#P1#=Samples	#P2#=fft/FunctionGenerator/Samples [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20170108002327	#P7#=0	#P8#=1	.
+16=#P0#=mb	#P1#=amplitude	#P2#=fft/FunctionGenerator/amplitude [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20170107011220	#P7#=0	#P8#=1	.
+17=#P0#=mb	#P1#=fft	#P2#=fft/mainfrm/fft	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111227140322	#P7#=0	#P8#=7	.
+18=#P0#=mb	#P1#=ApplyHanning	#P2#=fft/FunctionGenerator/ApplyHanning	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111121162550	#P7#=0	#P8#=4	.
+19=#P0#=mb	#P1#=GenSquare	#P2#=fft/FunctionGenerator/GenSquare	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111121162545	#P7#=0	#P8#=-14	.
+20=#P0#=mb	#P1#=GenCos	#P2#=fft/FunctionGenerator/GenCos	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111116140942	#P7#=0	#P8#=-16	.
+21=#P0#=mb	#P1#=NumSamples	#P2#=fft/FunctionGenerator/NumSamples [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20111116140633	#P7#=0	#P8#=-1	.
+22=#P0#=mb	#P1#=SamplingRate	#P2#=fft/FunctionGenerator/SamplingRate [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20111116140522	#P7#=0	#P8#=-2	.
+23=#P0#=mb	#P1#=SamplingRate	#P2#=fft/FunctionGenerator/SamplingRate [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20111116140512	#P7#=0	#P8#=2	.
